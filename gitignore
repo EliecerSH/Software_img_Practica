@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Empaquetado (PyInstaller)
+build/
+dist/
+*.spec
+*.exe
+
+# Datos del usuario: fotos de producto y resultados generados
+# (las carpetas se conservan con .gitkeep, pero su contenido no se sube)
+imagenes/*
+resultados/*
+!imagenes/.gitkeep
+!resultados/.gitkeep
+
+# Registros y temporales
+*.log
+*.tmp
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

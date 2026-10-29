@@ -1,0 +1,15 @@
+# Listado de composiciones (una imagen por linea)
+# Formato libre:     COD1/COD2 o COD1/COD2/COD3 ...
+# Pack (2):          COD1/COD2        o solo COD1 (se repite el mismo producto)
+# Tripack (3):       COD1/COD2/COD3   o solo COD1 (se repite el mismo producto)
+# Las lineas vacias y las que empiezan con # se ignoran.
+
+30-CRU/65-CAF
+30-CRU/5-AZU
+30-CRU/40-AZURAY
+30-CRU/10-NEG
+30-CRU/15-ROJ
+30-CRU/50-MOR
+30-CRU/60-VERMIL
+30-CRU/68-VERPET
+30-CRU/70-ANIPRI
